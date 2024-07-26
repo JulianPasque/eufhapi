@@ -7,6 +7,7 @@ public class Person {
     private String geschlecht;
     private String alter; 
     private Adresse adresse;
+    private String telefonnummer;
 
     //Setter and Getter
     // Setter and Getter for Vorname
